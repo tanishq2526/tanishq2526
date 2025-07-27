@@ -6,6 +6,8 @@
 
 ## 💻 About Me
 
+visit me at 🌐https://tanishqsoni-nu.vercel.app/
+
 I'm a **Full Stack Developer** currently sharpening my backend skills.  
 Apart from coding, I love **graphic designing**, experimenting with creative ideas, and learning new tech just for the fun of it.
 
